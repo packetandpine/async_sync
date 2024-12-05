@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Matthew Novak <matt@packetandpine.com>"]
 license = "MIT"
+repository = "https://github.com/packetandpine/async_sync"
+description = "A crate for handling asynchronous and synchronous operations seamlessly."
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
