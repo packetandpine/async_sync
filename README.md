@@ -141,3 +141,16 @@ fn main() {
     println!("Result: {:?}", result.unwrap());
 }
 ```
+
+---
+
+## Contact
+
+If you have any questions, feedback, or just want to connect, feel free to reach out!
+
+- **Matthew Novak**  
+  Email: [matt@packetandpine.com](mailto:matt@packetandpine.com)  
+  Website: [https://packetandpine.com](https://packetandpine.com)  
+  Twitter: [https://x.com/PacketAndPine](https://x.com/PacketAndPine)  
+  YouTube: [https://www.youtube.com/@PacketAndPine](https://www.youtube.com/@PacketAndPine)
+
